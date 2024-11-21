@@ -1,0 +1,6 @@
+#ignore the special config files unique to Mac
+########
+*.DS_Store
+*.xlsx
+*.csv
+
