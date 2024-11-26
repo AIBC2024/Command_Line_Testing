@@ -1,4 +1,6 @@
 # Create a variable called 'full_name' that holds a string
+# Test to see this added
+## Test comment 2
 full_name = str(input("Enter your full name: "))
 
 # Create a variable called 'country_to_visit' that holds a string
